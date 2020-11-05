@@ -16,3 +16,5 @@ print(LessThanFive(9))
 print(LessThanTen(9))
 print(LessThanFive(10))
 print(LessThanTen(10))
+
+print(MakeLessThan(25)(30))
